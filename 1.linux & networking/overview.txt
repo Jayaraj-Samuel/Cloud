@@ -1,0 +1,29 @@
+1. Linux (core)
+2. Networking (basics)
+
+
+1. Linux & Networking — MANDATORY (Deep)
+
+This is non-negotiable.
+
+You must know:
+
+File system
+
+Permissions
+
+Processes
+
+Logs
+
+Basic bash commands
+
+TCP/IP
+
+DNS
+
+HTTP/HTTPS
+
+Ports
+
+Subnets (basic)
